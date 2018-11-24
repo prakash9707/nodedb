@@ -1,0 +1,12 @@
+
+first install mongo and then robomongo => 1 step
+
+npm init is used to see the package which are used..
+npm install mongodb@2.2.5 --save is used to connect mongodb server with node js
+
+In other db first we need to create a database and then we can connect. but in mongo we no need to create database
+first we can connect and then we can create
+
+eventhrough we create a db in mongo , it wont be visible until we write some data on it
+
+27017 is a port number that is visible on robomongo
