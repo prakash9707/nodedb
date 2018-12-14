@@ -1,4 +1,9 @@
-var a = require('mongodb');
-console.log(a);
+// var {fun} = require('./demo1');
+//
+// console.log(fun());
+//
+//
 
-console.log('ahi');
+var arr = [];
+
+if (!arr) console.log('apple');
